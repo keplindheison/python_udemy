@@ -2,7 +2,7 @@
 
 Repositorio destinado para a pratica e execução de codigos, exercicios e projetos propostos no curso.
 
-Link do Curso:https://www.udemy.com/course/python-3-do-zero-ao-avancado
+Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado
 
 ## Tecnologias usadas
 <div style="display: inline_block"><br>
@@ -12,8 +12,11 @@ Link do Curso:https://www.udemy.com/course/python-3-do-zero-ao-avancado
 ## Conteudo aprendido durante o curso
 
 ### 1- Python Básico (Lógica de programação) :heavy_check_mark:
-- Blablablabla
-- Blablablabla
+- Comentários em Python
+- Comando print
+- Strings
+- Tipos de dados primitivos
+- Operadores aritimeticos
 
 ### 02 - Python Intermediário (Progamação procedural) :x:
 - Blablablabla
