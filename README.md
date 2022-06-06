@@ -17,6 +17,8 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado
 - Strings
 - Tipos de dados primitivos
 - Operadores aritimeticos
+- Variáveis
+- Introdução a formatação de strings
 
 ### 02 - Python Intermediário (Progamação procedural) :x:
 - Blablablabla
