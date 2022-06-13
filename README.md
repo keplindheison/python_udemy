@@ -19,6 +19,8 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado
 - Operadores aritimeticos
 - Variáveis
 - Introdução a formatação de strings
+- Input entrada de dados do usuário
+-
 
 ### 02 - Python Intermediário (Progamação procedural) :x:
 - Blablablabla
